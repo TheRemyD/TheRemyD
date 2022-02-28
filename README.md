@@ -21,7 +21,7 @@ Find out more about me & feel free to connect with me here :
 <br>
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=theremyd&bg_color=203239&color=E0DDAA&line=EEEDDE&point=EEEDDE&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=theremyd&bg_color=22272E&color=CFE384&line=EEEDDE&point=FF4E81&area=true&hide_border=true">
 
 ## ⚡ Technologies
 
