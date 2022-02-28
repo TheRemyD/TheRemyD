@@ -1,4 +1,4 @@
-![Remy Dale Banner Logo](https://imgur.com/a/x5J2pxI)
+![Remy Dale Banner Logo](https://i.imgur.com/6Z8WPdw.png)
 
 ## Hi, I am Remy Dale! My friends and colleages call the RemyD
 
