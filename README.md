@@ -1,9 +1,8 @@
 ![Remy Dale Banner Logo](https://i.imgur.com/6Z8WPdw.png)
 
-## Hi, I am Remy Dale! My friends and colleages call the RemyD
+## Hi, I am Remy Dale! My friends and colleages call me RemyD
 
-I am starting my life as a Software Engineer and looking forward to contributing to open source and private projects. I love reading, anime, family, and code!
-
+I recently transitions to being a Software Engineer and looking forward to contributing to open source and private projects focusing on Front-End processes. I love reading, anime, family, and code!
 
 Find out more about me & feel free to connect with me here :
 
@@ -39,6 +38,8 @@ Find out more about me & feel free to connect with me here :
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+### Learning
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SaSS)
 
 ## 📈 Stats
 <p align="center">
