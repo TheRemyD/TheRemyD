@@ -2,7 +2,7 @@
 
 ## Hi, I am Remy Dale! My friends and colleages call me RemyD
 
-I recently transitions to being a Software Engineer and looking forward to contributing to open source and private projects focusing on Front-End processes. I love reading, anime, family, and code!
+I recently transitioned to being a Software Engineer and looking forward to contributing to open source and private projects focusing on Front-End processes. I love reading, anime, family, and code!
 
 Find out more about me & feel free to connect with me here :
 
