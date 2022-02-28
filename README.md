@@ -42,9 +42,10 @@ Find out more about me & feel free to connect with me here :
 
 ## 📈 Stats
 <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheRemyD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=TheRemyD&theme=tokyonight_border=true&fire=DD2727" alt="arpit456jain" />
-    <img width="35%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRemyD&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="arpit456jain" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=theremyd&show_icons=true&bg_color=22272E&title_color=73854C&icon_color=FE4880&text_color=FAF0B9&locale=en">     <br>
+    <img width="50%"   src="https://github-readme-streak-stats.herokuapp.com?user=theremyd&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&ring=FF5189&fire=FF5189&currStreakNum=FF5189&sideNums=F8F2C4" alt="Remy Dale's Streak" />
+    <br>
+    <img width="50%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theremyd&show_icons=true&bg_color=22272E&title_color=73854C&icon_color=FE4880&text_color=FAF0B9&locale=en" alt="Remy Dale's Stats" />
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheRemyD.TheRemyD)
