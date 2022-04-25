@@ -4,6 +4,8 @@
 
 Pizza pounding, coffee guzzling, anime lover that enjoys creating solutions to problems through code! I also enjoy hanging out with family and friends, especially while camping in the great out doors.
 
+I am currently working at 100Devs building Full Stack Web solutions for clients.
+
 Find out more about me & feel free to connect with me here :
 
 <a href="https://twitter.com/TheOnlyRemyD">
